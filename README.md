@@ -1,2 +1,2 @@
-﻿# street view housing number digits recognition
+﻿# Street View Housing Number Digits Recognition
 
